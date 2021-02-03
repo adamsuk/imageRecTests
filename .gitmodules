@@ -1,0 +1,6 @@
+[submodule "opencv/frozen_east_text_detection.pb"]
+	path = opencv/frozen_east_text_detection.pb
+	url = https://github.com/oyyd/frozen_east_text_detection.pb.git
+[submodule "Ocropy/src"]
+	path = Ocropy/src
+	url = https://github.com/ocropus/ocropy.git
